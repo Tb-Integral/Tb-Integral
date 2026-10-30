@@ -26,7 +26,9 @@ I work on gameplay and on the details around it: responsive interfaces, interact
 
 ## Currently working on
 
-**[Gacha Shop Simulator](https://store.steampowered.com/app/4417480/Gacha_Shop_Simulator/)** — working as a developer on the team. A shop simulation game by **Meriin Media**, with a [free demo on Steam](https://store.steampowered.com/app/4893610/Gacha_Shop_Simulator_Demo/).
+**[Gacha Shop Simulator](https://store.steampowered.com/app/4417480/Gacha_Shop_Simulator/)** — a shop simulation game by **Meriin Media**, with a [free demo on Steam](https://store.steampowered.com/app/4893610/Gacha_Shop_Simulator_Demo/).
+
+I work on gameplay systems, UI, and feature integration as part of the development team, developing new features and improving existing systems.
 
 ## Projects I contributed to
 
@@ -37,7 +39,13 @@ I work on gameplay and on the details around it: responsive interfaces, interact
 
 ## Selected work
 
-### 01 / Late Night Order
+### 01 / Detective: Clues and Puzzles — DRA
+
+A browser puzzle game I developed for DRA.
+
+[Play on Yandex Games](https://yandex.ru/games/app/detektiv-zagadki-i-tainy-623305)
+
+### 02 / Late Night Order
 
 <a href="https://github.com/Tb-Integral/LateNightOrder"><img src="assets/late-night-order.jpg" alt="Late Night Order: the café counter and coffee station" width="640"></a>
 
