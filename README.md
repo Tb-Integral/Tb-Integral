@@ -10,11 +10,21 @@
 
 I'm **Darya Ulyanova**, a game developer working with **Unity and C#**, as well as browser games with **TypeScript and PixiJS**.
 
-My work includes gameplay programming, interfaces, and putting together the interactions, animation, and feedback that make a game playable.
+I work on gameplay and on the details around it: responsive interfaces, interactive objects, animation sequences, and effects that respond to the player's actions.
 
 ## Currently working on
 
 **[Gacha Shop Simulator](https://store.steampowered.com/app/4417480/Gacha_Shop_Simulator/)** — working as a developer on the team. A shop simulation game by **Meriin Media**, with a [free demo on Steam](https://store.steampowered.com/app/4893610/Gacha_Shop_Simulator_Demo/).
+
+## What I bring to a team
+
+My previous commercial experience includes working in a contractor's team on existing 2D children's games: integrating scenes and prefabs, implementing mini-games and drag-and-drop interactions, adapting UI to mobile screen sizes, and fixing gameplay bugs.
+
+- **Gameplay & integration:** Unity, C#, prefabs, interactive objects, UniTask, and VContainer.
+- **UI & localization:** mobile layouts, TextMeshPro, and I2 Localization.
+- **Animation & feedback:** Animator, Spine, Timeline, DOTween, and synchronizing VFX and audio with gameplay.
+
+I also work on browser games with TypeScript and PixiJS.
 
 ## Selected work
 
@@ -28,7 +38,17 @@ The case study covers the playable flow, Unity Playworks integration, and differ
 
 [Read the case study and view code](https://github.com/Tb-Integral/trash-dash-playable) · [Gameplay recording](https://drive.google.com/drive/folders/1rk66ak8Ov6HvpYo0GpTJYGafRMnfKN7T)
 
-### 02 / Run Rich 3D — Gameplay Recreation
+### 02 / Late Night Order
+
+A horror demo set in a late-night café, built as a test assignment. Its gameplay combines coffee preparation, interactions with the environment, a tutorial, dialogue branches, and two endings.
+
+This project brings together gameplay systems and scripted sequences in a compact playable experience.
+
+**Unity · C# · Interactions · Dialogue & sequences**
+
+[Explore the project](https://github.com/Tb-Integral/LateNightOrder)
+
+### 03 / Run Rich 3D — Gameplay Recreation
 
 A Unity test assignment recreating a runner level from a video reference: movement, pickups, character presentation, gates, UI, and win/loss states.
 
@@ -37,6 +57,16 @@ The repository includes setup instructions and PlayMode tests for gameplay and r
 **Unity · C# · Gameplay systems · PlayMode tests**
 
 [Explore the project](https://github.com/Tb-Integral/run-rich-3d-test)
+
+<details>
+<summary>More projects & learning</summary>
+
+- **[BigShotDrive!](https://github.com/Tb-Integral/BigShotDrive-)** — a Unity driving and shooting project with AI traffic, a shop, scoring, and saved progress.
+- **[TANKS!](https://github.com/Tb-Integral/Tanks)** — a top-down tank project with local players and AI, rounds, win tracking, and RU/EN language selection.
+- **[Ruby's Adventures](https://github.com/Tb-Integral/RubysAdventures)** — a Unity Learn project using Input System and UI Toolkit, with movement, shooting, dialogue, and health.
+- **[Unity Play profile](https://play.unity.com/en/user/7df1ab4e-d89c-44ad-a9ae-82964ba5e688)** · **[Unity Learn profile](https://learn.unity.com/u/68d39755edbc2a06c9771d1c?tab=profile)**
+
+</details>
 
 ## Contact
 
