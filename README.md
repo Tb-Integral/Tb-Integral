@@ -16,16 +16,6 @@ I work on gameplay and on the details around it: responsive interfaces, interact
 
 **[Gacha Shop Simulator](https://store.steampowered.com/app/4417480/Gacha_Shop_Simulator/)** — working as a developer on the team. A shop simulation game by **Meriin Media**, with a [free demo on Steam](https://store.steampowered.com/app/4893610/Gacha_Shop_Simulator_Demo/).
 
-## What I bring to a team
-
-My previous commercial experience includes working in a contractor's team on existing 2D children's games: integrating scenes and prefabs, implementing mini-games and drag-and-drop interactions, adapting UI to mobile screen sizes, and fixing gameplay bugs.
-
-- **Gameplay & integration:** Unity, C#, prefabs, interactive objects, UniTask, and VContainer.
-- **UI & localization:** mobile layouts, TextMeshPro, and I2 Localization.
-- **Animation & feedback:** Animator, Spine, Timeline, DOTween, and synchronizing VFX and audio with gameplay.
-
-I also work on browser games with TypeScript and PixiJS.
-
 ## Selected work
 
 ### 01 / Late Night Order
@@ -34,11 +24,9 @@ I also work on browser games with TypeScript and PixiJS.
 
 A horror demo set in a late-night café, built as a test assignment. Its gameplay combines coffee preparation, interactions with the environment, a tutorial, dialogue branches, and two endings.
 
-This project brings together gameplay systems and scripted sequences in a compact playable experience.
-
 **Unity · C# · Interactions · Dialogue & sequences**
 
-[Explore the project](https://github.com/Tb-Integral/LateNightOrder)
+[View source code](https://github.com/Tb-Integral/LateNightOrder)
 
 <details>
 <summary>Gameplay screenshots — coffee preparation & dialogue</summary>
@@ -57,7 +45,15 @@ The repository includes setup instructions and PlayMode tests for gameplay and r
 
 **Unity · C# · Gameplay systems · PlayMode tests**
 
-[Explore the project](https://github.com/Tb-Integral/run-rich-3d-test)
+[View source & setup instructions](https://github.com/Tb-Integral/run-rich-3d-test)
+
+## What I bring to a team
+
+My previous commercial experience includes working in a contractor's team on existing 2D children's games: integrating scenes and prefabs, implementing mini-games and drag-and-drop interactions, adapting UI to mobile screen sizes, and fixing gameplay bugs.
+
+- **Gameplay & integration:** Unity, C#, prefabs, interactive objects, UniTask, and VContainer.
+- **UI & localization:** mobile layouts, TextMeshPro, and I2 Localization.
+- **Animation & feedback:** Animator, Spine, Timeline, DOTween, and synchronizing VFX and audio with gameplay.
 
 <details>
 <summary>More projects & learning</summary>
