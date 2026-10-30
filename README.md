@@ -28,19 +28,7 @@ I also work on browser games with TypeScript and PixiJS.
 
 ## Selected work
 
-### 01 / Trash Dash → Playable Ad
-
-<a href="https://github.com/Tb-Integral/trash-dash-playable"><img src="assets/trash-dash-playable.png" alt="Trash Dash playable: end card, jump prompt, and lane-change prompt" width="640"></a>
-
-An adaptation of Unity's Endless Runner sample into a short, guided playable ad: lane switching, jumping, sliding, and an end card.
-
-The case study covers the playable flow, Unity Playworks integration, and differences between Editor playback and the exported experience. The original game and assets are by Unity Technologies.
-
-**Unity · C# · Unity Playworks**
-
-[Read the case study and view code](https://github.com/Tb-Integral/trash-dash-playable) · [Gameplay recording](https://drive.google.com/drive/folders/1rk66ak8Ov6HvpYo0GpTJYGafRMnfKN7T)
-
-### 02 / Late Night Order
+### 01 / Late Night Order
 
 <a href="https://github.com/Tb-Integral/LateNightOrder"><img src="assets/late-night-order.jpg" alt="Late Night Order: the café counter and coffee station" width="640"></a>
 
@@ -61,7 +49,7 @@ This project brings together gameplay systems and scripted sequences in a compac
 
 </details>
 
-### 03 / Run Rich 3D — Gameplay Recreation
+### 02 / Run Rich 3D — Gameplay Recreation
 
 A Unity test assignment recreating a runner level from a video reference: movement, pickups, character presentation, gates, UI, and win/loss states.
 
