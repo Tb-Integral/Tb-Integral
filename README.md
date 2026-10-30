@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dariaulyanova06@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20me-A84456?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email Darya"></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=dariaulyanova06%40gmail.com"><img src="https://img.shields.io/badge/Gmail-Compose%20email-A84456?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Write to Darya in Gmail"></a>
   <a href="https://t.me/integral5025"><img src="https://img.shields.io/badge/Telegram-Message-229ED9?style=flat&amp;logo=telegram&amp;logoColor=white" alt="Message Darya on Telegram"></a>
 </p>
 
@@ -27,6 +27,13 @@ I work on gameplay and on the details around it: responsive interfaces, interact
 ## Currently working on
 
 **[Gacha Shop Simulator](https://store.steampowered.com/app/4417480/Gacha_Shop_Simulator/)** — working as a developer on the team. A shop simulation game by **Meriin Media**, with a [free demo on Steam](https://store.steampowered.com/app/4893610/Gacha_Shop_Simulator_Demo/).
+
+## Projects I contributed to
+
+**Dino Island / Dino Island 2** — I took part in development as a member of an external contractor's team.
+
+- **Dino Island:** [Google Play](https://play.google.com/store/apps/details?id=com.amayasoft.dinosaur.games.little.kids.toddlers) · [App Store](https://apps.apple.com/us/app/dinosaur-games-for-kids-dino/id1365354509)
+- **Dino Island 2:** [Google Play](https://play.google.com/store/apps/details?id=com.amayasoft.dinosaurs.educational.games.kids.toddlers) · [App Store](https://apps.apple.com/us/app/games-for-toddlers-kids-2-5/id1443715499)
 
 ## Selected work
 
@@ -77,11 +84,22 @@ My previous commercial experience includes working in a contractor's team on exi
 
 </details>
 
+## GitHub stats
+
+<p>
+  <img src="assets/stats/activity.svg" alt="Public GitHub activity" width="304">
+  <img src="assets/stats/languages.svg" alt="Languages in public repositories" width="300">
+</p>
+
+Updated daily from public GitHub data. Private projects and GitLab work are not included; language shares reflect code volume, not proficiency.
+
 ## Contact
 
 For game development opportunities and collaboration:
 
-[![Email](https://img.shields.io/badge/Email-Write%20me-A84456?style=flat&logo=gmail&logoColor=white)](mailto:dariaulyanova06@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Compose%20email-A84456?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dariaulyanova06%40gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-229ED9?style=flat&logo=telegram&logoColor=white)](https://t.me/integral5025)
 
 **[dariaulyanova06@gmail.com](mailto:dariaulyanova06@gmail.com)** · **[@integral5025](https://t.me/integral5025)**
+
+The Gmail button opens a browser compose window. The email address opens your default mail app, or you can copy it into any email service.
