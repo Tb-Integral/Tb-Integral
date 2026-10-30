@@ -1,0 +1,53 @@
+name: Update profile statistics
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Generate public activity card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=Tb-Integral&show_icons=true&hide_rank=true&bg_color=171b30&title_color=fc8c81&text_color=f5efe4&icon_color=d9ed98&border_color=43485e
+          path: assets/stats/activity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: 'true'
+
+      - name: Generate public repository languages card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=Tb-Integral&layout=compact&langs_count=6&bg_color=171b30&title_color=fc8c81&text_color=f5efe4&border_color=43485e
+          path: assets/stats/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: 'true'
+
+      - name: Save successful cards
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add assets/stats/activity.svg assets/stats/languages.svg
+          if git diff --cached --quiet; then
+            echo "Statistics are unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update public GitHub statistics"
+          git push
