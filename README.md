@@ -30,6 +30,8 @@ I also work on browser games with TypeScript and PixiJS.
 
 ### 01 / Trash Dash → Playable Ad
 
+<a href="https://github.com/Tb-Integral/trash-dash-playable"><img src="assets/trash-dash-playable.png" alt="Trash Dash playable: end card, jump prompt, and lane-change prompt" width="640"></a>
+
 An adaptation of Unity's Endless Runner sample into a short, guided playable ad: lane switching, jumping, sliding, and an end card.
 
 The case study covers the playable flow, Unity Playworks integration, and differences between Editor playback and the exported experience. The original game and assets are by Unity Technologies.
@@ -40,6 +42,8 @@ The case study covers the playable flow, Unity Playworks integration, and differ
 
 ### 02 / Late Night Order
 
+<a href="https://github.com/Tb-Integral/LateNightOrder"><img src="assets/late-night-order.jpg" alt="Late Night Order: the café counter and coffee station" width="640"></a>
+
 A horror demo set in a late-night café, built as a test assignment. Its gameplay combines coffee preparation, interactions with the environment, a tutorial, dialogue branches, and two endings.
 
 This project brings together gameplay systems and scripted sequences in a compact playable experience.
@@ -47,6 +51,15 @@ This project brings together gameplay systems and scripted sequences in a compac
 **Unity · C# · Interactions · Dialogue & sequences**
 
 [Explore the project](https://github.com/Tb-Integral/LateNightOrder)
+
+<details>
+<summary>Gameplay screenshots — coffee preparation & dialogue</summary>
+
+![Coffee preparation tutorial](assets/late-night-order-coffee.jpg)
+
+![A customer conversation at the café counter](assets/late-night-order-dialogue.jpg)
+
+</details>
 
 ### 03 / Run Rich 3D — Gameplay Recreation
 
