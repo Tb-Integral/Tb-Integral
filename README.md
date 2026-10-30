@@ -3,14 +3,26 @@
 </p>
 
 <p align="center">
+  <a href="mailto:dariaulyanova06@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20me-A84456?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email Darya"></a>
+  <a href="https://t.me/integral5025"><img src="https://img.shields.io/badge/Telegram-Message-229ED9?style=flat&amp;logo=telegram&amp;logoColor=white" alt="Message Darya on Telegram"></a>
+</p>
+
+<p align="center">
   <a href="https://store.steampowered.com/app/4417480/Gacha_Shop_Simulator/">Current team project</a> ·
-  <a href="#selected-work">Selected work</a> ·
-  <a href="mailto:dariaulyanova06@gmail.com">Get in touch</a>
+  <a href="#selected-work">Selected work</a>
 </p>
 
 I'm **Darya Ulyanova**, a game developer working with **Unity and C#**, as well as browser games with **TypeScript and PixiJS**.
 
 I work on gameplay and on the details around it: responsive interfaces, interactive objects, animation sequences, and effects that respond to the player's actions.
+
+<p>
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-222222?style=flat&amp;logo=unity&amp;logoColor=white" alt="Unity"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat" alt="C sharp"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"></a>
+  <a href="https://pixijs.com/"><img src="https://img.shields.io/badge/PixiJS-C2185B?style=flat" alt="PixiJS"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git"></a>
+</p>
 
 ## Currently working on
 
@@ -67,4 +79,9 @@ My previous commercial experience includes working in a contractor's team on exi
 
 ## Contact
 
-For game development opportunities and collaboration: **[dariaulyanova06@gmail.com](mailto:dariaulyanova06@gmail.com)**.
+For game development opportunities and collaboration:
+
+[![Email](https://img.shields.io/badge/Email-Write%20me-A84456?style=flat&logo=gmail&logoColor=white)](mailto:dariaulyanova06@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-229ED9?style=flat&logo=telegram&logoColor=white)](https://t.me/integral5025)
+
+**[dariaulyanova06@gmail.com](mailto:dariaulyanova06@gmail.com)** · **[@integral5025](https://t.me/integral5025)**
