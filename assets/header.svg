@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Darya Ulyanova — Game Developer</title>
+  <desc id="desc">A midnight blue banner with warm ivory lettering, coral and lime geometric accents, and the username Tb-Integral.</desc>
+  <rect width="1200" height="380" rx="24" fill="#171b30"/>
+  <path d="M830 0v380M950 0v380M1070 0v380M0 95h1200M0 190h1200M0 285h1200" stroke="#292e48" stroke-width="1"/>
+  <circle cx="1030" cy="182" r="112" fill="none" stroke="#fc8c81" stroke-width="2"/>
+  <circle cx="1030" cy="182" r="76" fill="none" stroke="#fc8c81" stroke-width="2"/>
+  <path d="M1030 45v274M893 182h274" stroke="#fc8c81" stroke-width="2"/>
+  <rect x="992" y="144" width="76" height="76" rx="12" fill="#d9ed98" transform="rotate(-15 1030 182)"/>
+  <circle cx="1030" cy="182" r="9" fill="#171b30"/>
+  <rect x="62" y="58" width="10" height="10" fill="#d9ed98"/>
+  <text x="88" y="70" fill="#d9ed98" font-family="Consolas,monospace" font-size="19" letter-spacing="3">TB-INTEGRAL</text>
+  <text x="58" y="170" fill="#f5efe4" font-family="Segoe UI,Arial,sans-serif" font-size="70" font-weight="700">Darya Ulyanova</text>
+  <text x="62" y="228" fill="#fc8c81" font-family="Segoe UI,Arial,sans-serif" font-size="34">Game Developer</text>
+  <path d="M62 278h690" stroke="#43485e"/>
+  <text x="62" y="320" fill="#c9cddd" font-family="Consolas,monospace" font-size="19" letter-spacing="1">UNITY / C# / BROWSER GAMES</text>
+</svg>
