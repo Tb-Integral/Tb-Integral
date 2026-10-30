@@ -56,16 +56,6 @@ A horror demo set in a late-night café, built as a test assignment. Its gamepla
 
 </details>
 
-### 02 / Run Rich 3D — Gameplay Recreation
-
-A Unity test assignment recreating a runner level from a video reference: movement, pickups, character presentation, gates, UI, and win/loss states.
-
-The repository includes setup instructions and PlayMode tests for gameplay and restart behavior. This is a reference-based exercise, not the original commercial game.
-
-**Unity · C# · Gameplay systems · PlayMode tests**
-
-[View source & setup instructions](https://github.com/Tb-Integral/run-rich-3d-test)
-
 ## What I bring to a team
 
 My previous commercial experience includes working in a contractor's team on existing 2D children's games: integrating scenes and prefabs, implementing mini-games and drag-and-drop interactions, adapting UI to mobile screen sizes, and fixing gameplay bugs.
