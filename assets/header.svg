@@ -1,17 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
-  <title id="title">Darya Ulyanova — Game Developer</title>
-  <desc id="desc">A midnight blue banner with warm ivory lettering, coral and lime geometric accents, and the username Tb-Integral.</desc>
-  <rect width="1200" height="380" rx="24" fill="#171b30"/>
-  <path d="M830 0v380M950 0v380M1070 0v380M0 95h1200M0 190h1200M0 285h1200" stroke="#292e48" stroke-width="1"/>
-  <circle cx="1030" cy="182" r="112" fill="none" stroke="#fc8c81" stroke-width="2"/>
-  <circle cx="1030" cy="182" r="76" fill="none" stroke="#fc8c81" stroke-width="2"/>
-  <path d="M1030 45v274M893 182h274" stroke="#fc8c81" stroke-width="2"/>
-  <rect x="992" y="144" width="76" height="76" rx="12" fill="#d9ed98" transform="rotate(-15 1030 182)"/>
-  <circle cx="1030" cy="182" r="9" fill="#171b30"/>
-  <rect x="62" y="58" width="10" height="10" fill="#d9ed98"/>
-  <text x="88" y="70" fill="#d9ed98" font-family="Consolas,monospace" font-size="19" letter-spacing="3">TB-INTEGRAL</text>
-  <text x="58" y="170" fill="#f5efe4" font-family="Segoe UI,Arial,sans-serif" font-size="70" font-weight="700">Darya Ulyanova</text>
-  <text x="62" y="228" fill="#fc8c81" font-family="Segoe UI,Arial,sans-serif" font-size="34">Game Developer</text>
-  <path d="M62 278h690" stroke="#43485e"/>
-  <text x="62" y="320" fill="#c9cddd" font-family="Consolas,monospace" font-size="19" letter-spacing="1">UNITY / C# / BROWSER GAMES</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Darya Ulyanova — Game Developer — Tb-Integral</title>
+  <desc id="description">A black triangle with a pink integral sign, a small ghost, and pixel game icons on a plum and peach banner.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="340" rx="24"/></clipPath>
+    <linearGradient id="peach" x2="0.88" y2="1">
+      <stop stop-color="#fbd3c2"/>
+      <stop offset="1" stop-color="#e9a3ba"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="#24182d"/>
+    <path d="M851-12C831 50 840 86 815 124C790 161 760 187 775 236C788 285 785 306 753 352H1200V-12Z" fill="url(#peach)"/>
+    <path d="M894 312c52-2 58-38 102-28 37 8 65 39 112 14" fill="none" stroke="#8f456b" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 10"/>
+
+    <g aria-hidden="true">
+      <path d="M986 79 1089 257H883Z" transform="translate(4 8)" fill="#6d3857" opacity=".32"/>
+      <path d="M986 74 1093 256H879Z" fill="#100d15" stroke="#fff0e8" stroke-width="6" stroke-linejoin="round"/>
+      <path d="M1008 121c-16-10-25 0-27 19l-9 64c-3 20-12 28-26 19" fill="none" stroke="#ffadcb" stroke-width="9" stroke-linecap="round"/>
+      <circle cx="1008" cy="121" r="4.5" fill="#ffadcb"/>
+      <circle cx="946" cy="223" r="4.5" fill="#ffadcb"/>
+
+      <path d="M866 78h12v-12h21v12h10v22h-10v11h-10v10h-13v-10h-10v-11h-10V78z" transform="translate(1 3)" fill="#a4597f"/>
+      <path d="M856 73h12v10h10V73h21v10h10v17h-10v11h-10v10h-13v-10h-10v-11h-10z" fill="#ba425d" stroke="#fae9dc" stroke-width="3" stroke-linejoin="round"/>
+      <path d="M1102 72v13m0-50v13m-25 12h13m24 0h13m-42-17 8 8m18 18 8 8m-34 0 8-8m18-18 8-8" stroke="#582d56" stroke-width="3" stroke-linecap="round"/>
+      <path d="M1129 132h12v11h11v12h-11v11h-12v-11h-11v-12h11z" fill="#fff1a8" stroke="#744268" stroke-width="3" stroke-linejoin="round"/>
+      <path d="M862 155c-8-5-12 0-13 8l-4 20c-1 8-6 11-12 8" fill="none" stroke="#824261" stroke-width="4" stroke-linecap="round"/>
+
+      <g transform="translate(1062 199) rotate(12 40 40)">
+        <path d="M10 52V35C10 17 23 5 39 5s29 12 29 30v23c0 7-6 9-11 5l-7-6-7 6c-3 3-7 3-10 0l-7-6-7 6c-5 4-9 0-9-11z" transform="translate(3 5)" fill="#5c304e" opacity=".32"/>
+        <path d="M10 52V35C10 17 23 5 39 5s29 12 29 30v23c0 7-6 9-11 5l-7-6-7 6c-3 3-7 3-10 0l-7-6-7 6c-5 4-9 0-9-11z" fill="#fff1e7" stroke="#2b1b32" stroke-width="4" stroke-linejoin="round"/>
+        <ellipse cx="30" cy="34" rx="3.5" ry="5" fill="#2b1b32"/><ellipse cx="48" cy="34" rx="3.5" ry="5" fill="#2b1b32"/>
+        <path d="M36 45q3 4 6 0" fill="none" stroke="#2b1b32" stroke-width="2.4" stroke-linecap="round"/>
+        <path d="M21 42h5m26 0h5" stroke="#e889a6" stroke-width="3" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <text x="64" y="143" fill="#fff2e9" font-family="Segoe UI, Arial, sans-serif" font-size="91" font-weight="700">Darya Ulyanova</text>
+    <text x="69" y="214" fill="#ffb4cb" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="500">Game Developer</text>
+    <text x="70" y="272" fill="#e8cbdf" font-family="Consolas, monospace" font-size="34" letter-spacing="1">Tb-Integral</text>
+  </g>
 </svg>
