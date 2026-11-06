@@ -30,9 +30,9 @@ A browser puzzle game I developed for **DRA**. Players use clues to place charac
 
 [Yandex Games](https://yandex.ru/games/app/detektiv-zagadki-i-tainy-623305?lang=en)
 
-<img src="https://avatars.mds.yandex.net/get-games/10152950/2a000001a10d1079f8a90076f715a1e96660/orig" alt="Detective: Clues and Puzzles gallery image showing a clue and the puzzle map" width="560" height="315">
+<img src="assets/detective-cover.png" alt="Detective: Clues and Puzzles cover with a magnifying glass and a puzzle map" width="560" height="329">
 
-<sub>Official gallery image · DRA</sub>
+<sub>Cover art · DRA</sub>
 
 ### Gacha Shop Simulator
 
