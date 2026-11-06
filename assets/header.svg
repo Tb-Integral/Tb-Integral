@@ -56,7 +56,7 @@
       <ellipse cx="900" cy="156" rx="177" ry="39" stroke-width="2" transform="rotate(-15 900 156)"/>
     </g>
     <path d="M900 64 1003 236H797Z" fill="#100c17" stroke="#ffada5" stroke-width="3" stroke-linejoin="round"/>
-    <path d="M921 136C908 129 903 143 901 166L899 191C897 214 892 228 879 221" fill="none" stroke="#ffada5" stroke-width="10" stroke-linecap="round"/>
+    <path d="M921 136C908 129 903 143 901 166L899 191C897 214 892 228 879 221" transform="translate(0 -22)" fill="none" stroke="#ffada5" stroke-width="10" stroke-linecap="round"/>
     <use href="#sparkle" transform="translate(1060 101)" fill="#ffe0a2"/>
     <use href="#sparkle" transform="translate(766 207) scale(.67)" fill="#ffada5"/>
     <use href="#sparkle" transform="translate(1065 214) scale(.33)" fill="#ffada5"/>
