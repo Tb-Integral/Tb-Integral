@@ -24,13 +24,17 @@ I'm **Darya Ulyanova**, a game developer working in **Unity and C#** and buildin
 
 ## Selected work
 
+`01 / SELECT GAME`
+
 ### Detective: Clues and Puzzles
 
-A browser puzzle game I developed for **DRA**. Players use clues to place characters on a map and reconstruct the scene.
-
-[Yandex Games](https://yandex.ru/games/app/detektiv-zagadki-i-tainy-623305?lang=en)
-
 <img src="assets/detective-cover.png" alt="Detective: Clues and Puzzles cover with a magnifying glass and a puzzle map" width="560" height="329">
+
+**Browser puzzle · Developed for DRA**
+
+Use clues to place characters on the map and reconstruct the scene.
+
+**[▶ Play on Yandex Games](https://yandex.ru/games/app/detektiv-zagadki-i-tainy-623305?lang=en)**
 
 <sub>Cover art · DRA</sub>
 
