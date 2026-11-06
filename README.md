@@ -8,13 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://store.steampowered.com/app/4417480/Gacha_Shop_Simulator/">Current team project</a> ·
-  <a href="#selected-work">Selected work</a>
+  <a href="#selected-work">Selected work</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
-I'm **Darya Ulyanova**, a game developer working with **Unity and C#**, as well as browser games with **TypeScript and PixiJS**.
-
-I work on gameplay and on the details around it: responsive interfaces, interactive objects, animation sequences, and effects that respond to the player's actions.
+I'm **Darya Ulyanova**, a game developer working in **Unity and C#** and building browser games with **TypeScript and PixiJS**. I work on gameplay, interactive objects, UI, animation, and effects that respond to the player.
 
 <p>
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-222222?style=flat&amp;logo=unity&amp;logoColor=white" alt="Unity"></a>
@@ -24,36 +22,33 @@ I work on gameplay and on the details around it: responsive interfaces, interact
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git"></a>
 </p>
 
-## Currently working on
-
-**[Gacha Shop Simulator](https://store.steampowered.com/app/4417480/Gacha_Shop_Simulator/)** — a shop simulation game by **Meriin Media**, with a [free demo on Steam](https://store.steampowered.com/app/4893610/Gacha_Shop_Simulator_Demo/).
-
-I work on gameplay systems, UI, and feature integration as part of the development team, developing new features and improving existing systems.
-
-## Projects I contributed to
-
-**Dino Island / Dino Island 2** — I took part in development as a member of an external contractor's team.
-
-- **Dino Island:** [Google Play](https://play.google.com/store/apps/details?id=com.amayasoft.dinosaur.games.little.kids.toddlers) · [App Store](https://apps.apple.com/us/app/dinosaur-games-for-kids-dino/id1365354509)
-- **Dino Island 2:** [Google Play](https://play.google.com/store/apps/details?id=com.amayasoft.dinosaurs.educational.games.kids.toddlers) · [App Store](https://apps.apple.com/us/app/games-for-toddlers-kids-2-5/id1443715499)
-
 ## Selected work
 
-### 01 / Detective: Clues and Puzzles — DRA
+### Detective: Clues and Puzzles
 
-A browser puzzle game I developed for DRA.
+A browser puzzle game I developed for **DRA**. Players use clues to place characters on a map and reconstruct the scene.
 
-[Play on Yandex Games](https://yandex.ru/games/app/detektiv-zagadki-i-tainy-623305)
+[Yandex Games](https://yandex.ru/games/app/detektiv-zagadki-i-tainy-623305?lang=en)
 
-### 02 / Late Night Order
+<img src="https://avatars.mds.yandex.net/get-games/10152950/2a000001a10d1079f8a90076f715a1e96660/orig" alt="Detective: Clues and Puzzles gallery image showing a clue and the puzzle map" width="560" height="315">
 
-<a href="https://github.com/Tb-Integral/LateNightOrder"><img src="assets/late-night-order.jpg" alt="Late Night Order: the café counter and coffee station" width="640"></a>
+<sub>Official gallery image · DRA</sub>
+
+### Gacha Shop Simulator
+
+I work on the development team for **Meriin Media**, where I build and improve gameplay systems and UI and integrate new features into the game.
+
+[Steam page](https://store.steampowered.com/app/4417480/Gacha_Shop_Simulator/) · [Steam demo](https://store.steampowered.com/app/4893610/Gacha_Shop_Simulator_Demo/)
+
+### Late Night Order
+
+<a href="https://github.com/Tb-Integral/LateNightOrder"><img src="assets/late-night-order.jpg" alt="Late Night Order: the café counter and coffee station" width="560" height="344"></a>
 
 A horror demo set in a late-night café, built as a test assignment. Its gameplay combines coffee preparation, interactions with the environment, a tutorial, dialogue branches, and two endings.
 
 **Unity · C# · Interactions · Dialogue & sequences**
 
-[View source code](https://github.com/Tb-Integral/LateNightOrder)
+[Project overview and source code](https://github.com/Tb-Integral/LateNightOrder#readme)
 
 <details>
 <summary>Gameplay screenshots — coffee preparation & dialogue</summary>
@@ -63,6 +58,13 @@ A horror demo set in a late-night café, built as a test assignment. Its gamepla
 ![A customer conversation at the café counter](assets/late-night-order-dialogue.jpg)
 
 </details>
+
+## Projects I contributed to
+
+**Dino Island / Dino Island 2** — I took part in development as a member of an external contractor's team.
+
+- **Dino Island:** [Google Play](https://play.google.com/store/apps/details?id=com.amayasoft.dinosaur.games.little.kids.toddlers) · [App Store](https://apps.apple.com/us/app/dinosaur-games-for-kids-dino/id1365354509)
+- **Dino Island 2:** [Google Play](https://play.google.com/store/apps/details?id=com.amayasoft.dinosaurs.educational.games.kids.toddlers) · [App Store](https://apps.apple.com/us/app/games-for-toddlers-kids-2-5/id1443715499)
 
 ## What I bring to a team
 
@@ -99,5 +101,3 @@ For game development opportunities and collaboration:
 [![Telegram](https://img.shields.io/badge/Telegram-Message-229ED9?style=flat&logo=telegram&logoColor=white)](https://t.me/integral5025)
 
 **[dariaulyanova06@gmail.com](mailto:dariaulyanova06@gmail.com)** · **[@integral5025](https://t.me/integral5025)**
-
-The Gmail button opens a browser compose window. The email address opens your default mail app, or you can copy it into any email service.
