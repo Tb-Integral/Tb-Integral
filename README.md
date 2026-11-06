@@ -40,18 +40,24 @@ I work on the development team for **Meriin Media**, where I build and improve g
 
 [Steam page](https://store.steampowered.com/app/4417480/Gacha_Shop_Simulator/) · [Steam demo](https://store.steampowered.com/app/4893610/Gacha_Shop_Simulator_Demo/)
 
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4417480/9c05baafa331631bfc3ff51929833ff211e43574/ss_9c05baafa331631bfc3ff51929833ff211e43574.600x338.jpg" alt="Gacha Shop Simulator storefront and shop naming interface" width="560" height="315">
+
+<sub>Official Steam screenshot · Meriin Media</sub>
+
 ### Late Night Order
 
-<a href="https://github.com/Tb-Integral/LateNightOrder"><img src="assets/late-night-order.jpg" alt="Late Night Order: the café counter and coffee station" width="560" height="344"></a>
+**One-week Unity test assignment**
 
-A horror demo set in a late-night café, built as a test assignment. Its gameplay combines coffee preparation, interactions with the environment, a tutorial, dialogue branches, and two endings.
+A short first-person prototype set in a late-night café. It combines coffee preparation, environmental interactions, and branching dialogue.
 
 **Unity · C# · Interactions · Dialogue & sequences**
 
 [Project overview and source code](https://github.com/Tb-Integral/LateNightOrder#readme)
 
 <details>
-<summary>Gameplay screenshots — coffee preparation & dialogue</summary>
+<summary>Prototype screenshots</summary>
+
+![Café counter and coffee station](assets/late-night-order.jpg)
 
 ![Coffee preparation tutorial](assets/late-night-order-coffee.jpg)
 
