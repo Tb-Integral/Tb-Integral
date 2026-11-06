@@ -1,37 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="318" viewBox="0 0 1160 318" role="img" aria-labelledby="title desc">
   <title id="title">Darya Ulyanova — Game Developer — Tb-Integral</title>
-  <desc id="description">A black triangle with a coral integral sign, a ghost, and pixel game icons on a plum and warm coral banner.</desc>
+  <desc id="desc">A coral integral sign centered in a black triangle, surrounded by a starry orbit and a pixel gamepad cross.</desc>
   <defs>
-    <clipPath id="frame"><rect width="1200" height="340" rx="24"/></clipPath>
-    <linearGradient id="coral" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#edb3a2"/>
-      <stop offset="1" stop-color="#de8c88"/>
+    <linearGradient id="space" x2="100%" y2="0%">
+      <stop stop-color="#21172f"/>
+      <stop offset="1" stop-color="#512c50"/>
     </linearGradient>
+    <path id="sparkle" d="M0-18 4-4 18 0 4 4 0 18-4 4-18 0-4-4Z"/>
   </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="340" fill="#251d2c"/>
-    <path d="M857-12C842 50 835 107 800 153C758 207 806 270 760 352H1200V-12Z" fill="url(#coral)"/>
-
-    <g aria-hidden="true">
-      <path d="M979 66 1092 261H866Z" transform="translate(5 8)" fill="#653045" opacity=".28"/>
-      <path d="M979 66 1092 261H866Z" fill="#100d15" stroke="#fff0e8" stroke-width="5" stroke-linejoin="round"/>
-      <path d="M1000 119c-16-10-25 0-27 19l-9 64c-3 20-12 28-26 19" fill="none" stroke="#ffaba5" stroke-width="10" stroke-linecap="round"/>
-
-      <path d="M865 70h18v9h10v-9h18v9h9v20h-9v9h-9v9h-9v9h-10v-9h-9v-9h-9v-9h-9V79h9z" fill="#963448" stroke="#ffe8dc" stroke-width="3" stroke-linejoin="round"/>
-      <path d="m1110 77 7 15 15 7-15 7-7 15-7-15-15-7 15-7z" fill="#ffe4a9" stroke="#643548" stroke-width="3" stroke-linejoin="round"/>
-      <path d="M854 164c-8-5-13 0-14 10l-5 24c-2 9-7 13-14 9" fill="none" stroke="#71334c" stroke-width="5" stroke-linecap="round"/>
-
-      <g transform="translate(1033 188) rotate(9 49 49) scale(1.32)">
-        <path d="M10 52V35C10 17 23 5 39 5s29 12 29 30v23c0 7-6 9-11 5l-7-6-7 6c-3 3-7 3-10 0l-7-6-7 6c-5 4-9 0-9-11z" transform="translate(3 5)" fill="#5c304e" opacity=".32"/>
-        <path d="M10 52V35C10 17 23 5 39 5s29 12 29 30v23c0 7-6 9-11 5l-7-6-7 6c-3 3-7 3-10 0l-7-6-7 6c-5 4-9 0-9-11z" fill="#fff1e7" stroke="#2b1b32" stroke-width="4" stroke-linejoin="round"/>
-        <ellipse cx="30" cy="34" rx="3.5" ry="5" fill="#2b1b32"/><ellipse cx="48" cy="34" rx="3.5" ry="5" fill="#2b1b32"/>
-        <path d="M36 45q3 4 6 0" fill="none" stroke="#2b1b32" stroke-width="2.4" stroke-linecap="round"/>
-        <path d="M21 42h5m26 0h5" stroke="#e889a6" stroke-width="3" stroke-linecap="round"/>
-      </g>
+  <rect width="1160" height="318" fill="url(#space)"/>
+  <g aria-hidden="true">
+    <g fill="#c887a5" opacity=".56">
+      <circle cx="715" cy="18" r="1.6" />
+      <circle cx="852" cy="91" r="1" />
+      <circle cx="989" cy="164" r="1" />
+      <circle cx="1126" cy="237" r="1" />
+      <circle cx="843" cy="29" r="1" />
+      <circle cx="980" cy="102" r="1" />
+      <circle cx="1117" cy="175" r="1" />
+      <circle cx="834" cy="248" r="1" />
+      <circle cx="971" cy="40" r="1.6" />
+      <circle cx="1108" cy="113" r="1" />
+      <circle cx="825" cy="186" r="1" />
+      <circle cx="962" cy="259" r="1" />
+      <circle cx="1099" cy="51" r="1" />
+      <circle cx="816" cy="124" r="1" />
+      <circle cx="953" cy="197" r="1" />
+      <circle cx="1090" cy="270" r="1" />
+      <circle cx="807" cy="62" r="1.6" />
+      <circle cx="944" cy="135" r="1" />
+      <circle cx="1081" cy="208" r="1" />
+      <circle cx="798" cy="281" r="1" />
+      <circle cx="935" cy="73" r="1" />
+      <circle cx="1072" cy="146" r="1" />
+      <circle cx="789" cy="219" r="1" />
+      <circle cx="926" cy="292" r="1" />
+      <circle cx="1063" cy="84" r="1.6" />
+      <circle cx="780" cy="157" r="1" />
+      <circle cx="917" cy="230" r="1" />
+      <circle cx="1054" cy="22" r="1" />
+      <circle cx="771" cy="95" r="1" />
+      <circle cx="908" cy="168" r="1" />
+      <circle cx="1045" cy="241" r="1" />
+      <circle cx="762" cy="33" r="1" />
+      <circle cx="899" cy="106" r="1.6" />
+      <circle cx="1036" cy="179" r="1" />
+      <circle cx="753" cy="252" r="1" />
+      <circle cx="890" cy="44" r="1" />
+      <circle cx="1027" cy="117" r="1" />
     </g>
-
-    <text x="64" y="145" fill="#fff2e9" font-family="Segoe UI, Arial, sans-serif" font-size="91" font-weight="700">Darya Ulyanova</text>
-    <text x="68" y="209" fill="#ffaba5" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="500">Game Developer</text>
-    <text x="69" y="268" fill="#dbc7d5" font-family="Consolas, monospace" font-size="34" letter-spacing="1">Tb-Integral</text>
+    <circle cx="900" cy="158" r="121" fill="#613953"/>
+    <g fill="none" stroke="#a86887">
+      <circle cx="900" cy="158" r="107"/>
+      <circle cx="900" cy="158" r="94"/>
+      <ellipse cx="900" cy="156" rx="177" ry="39" stroke-width="2" transform="rotate(-15 900 156)"/>
+    </g>
+    <path d="M900 64 1003 236H797Z" fill="#100c17" stroke="#ffada5" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M921 136C908 129 903 143 901 166L899 191C897 214 892 228 879 221" fill="none" stroke="#ffada5" stroke-width="10" stroke-linecap="round"/>
+    <use href="#sparkle" transform="translate(1060 101)" fill="#ffe0a2"/>
+    <use href="#sparkle" transform="translate(766 207) scale(.67)" fill="#ffada5"/>
+    <use href="#sparkle" transform="translate(1065 214) scale(.33)" fill="#ffada5"/>
+    <path d="M1032 237h12v12h12v12h-12v12h-12v-12h-12v-12h12z" fill="#ffe0a2"/>
+    <path d="M1083 230h10v10h-10zm12 12h10v10h-10z" fill="#ffada5"/>
   </g>
+  <text x="56" y="83" font-family="Consolas, monospace" font-size="23" font-weight="700" fill="#ffada5">TB-INTEGRAL</text>
+  <text x="53" y="188" font-family="Segoe UI, Arial, sans-serif" font-size="76" font-weight="700" fill="#fff5ee">Darya Ulyanova</text>
+  <text x="56" y="244" font-family="Segoe UI, Arial, sans-serif" font-size="34" fill="#ead5e8">Game Developer</text>
 </svg>
