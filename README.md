@@ -40,9 +40,9 @@ I work on the development team for **Meriin Media**, where I build and improve g
 
 [Steam page](https://store.steampowered.com/app/4417480/Gacha_Shop_Simulator/) · [Steam demo](https://store.steampowered.com/app/4893610/Gacha_Shop_Simulator_Demo/)
 
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4417480/9c05baafa331631bfc3ff51929833ff211e43574/ss_9c05baafa331631bfc3ff51929833ff211e43574.600x338.jpg" alt="Gacha Shop Simulator storefront and shop naming interface" width="560" height="315">
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4417480/16f0ec6d6168b06e899c7b79d035b17f593ec367/header.jpg" alt="Official Gacha Shop Simulator cover" width="460" height="215">
 
-<sub>Official Steam screenshot · Meriin Media</sub>
+<sub>Official Steam cover · Meriin Media</sub>
 
 ### Late Night Order
 
